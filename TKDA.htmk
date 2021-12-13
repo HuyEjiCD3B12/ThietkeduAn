@@ -1,0 +1,36 @@
+<! DOCTYPE html>
+<html lang = " en " >
+  <head>
+    <meta charset = " utf-8 " />
+    <meta name = " viewport " content = " width = device-width, initial-scale = 1 " />
+    <link rel = " icon " href = " https://glitch.com/favicon.ico " />
+    <title> phim hay.net </title>
+    <link rel = " canonical " href = " https://glitch-hello-website.glitch.me/ " />
+
+   </body>
+  <style>
+    h2{
+      color:blue;
+    }
+  </style>
+  <link rel="stylesheet"href="index.css"/>
+      <! -   1 . hiển thị nội dung
+2 . get user information ->
+
+    <h1>
+    Xem Anime Hấp Dẫn 
+    </h1>
+  <h2>
+   Top anime hay nhất
+    </ h2>
+    
+    </h3>
+       <h3>
+     AkamegaKill!!-(2014)
+      </h3>
+   <h4>
+  <a href="https://luotphimtv.com/phim/akame-ga-kill/"</a>
+  </h4>
+  
+  <h5>
+<img src =https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fluotphimtv.com%2Fphim%2Fakame-ga-kill%2F&psig=AOvVaw2wworCejwGk2oOqslyEBvb&ust=1639489440002000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIDwuaD04PQCFQAAAAAdAAAAABAI"/>
